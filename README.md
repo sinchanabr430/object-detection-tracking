@@ -1,6 +1,6 @@
 # 🎯 Object Detection and Tracking
 
-A real-time object detection and tracking system built with a pretrained YOLOv8 model and OpenCV, developed as part of the CodeAlpha AI & ML Internship.
+A real-time object detection and tracking system built with a pretrained YOLOv8 model and OpenCV — an independent project exploring computer vision and real-time AI applications.
 
 ## 📖 Overview
 
@@ -78,4 +78,4 @@ The YOLOv8 model (`yolov8n.pt`, ~6MB) will automatically download on first run. 
 
 ## 📄 License
 
-This project was built for educational purposes as part of the CodeAlpha internship program.
+This project was built independently for educational purposes and portfolio development.
